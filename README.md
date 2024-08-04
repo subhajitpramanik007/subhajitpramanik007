@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Database managements**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-subho.firebaseapp.com/](https://portfolio-subho.firebaseapp.com/)
+- 👨‍💻 All of my projects are available at [subho.dev](https://subhodev-subhajit-pramaniks-projects.vercel.app/)
 
 - 📫 How to reach me **subho.p.1011@gmail.com**
 
