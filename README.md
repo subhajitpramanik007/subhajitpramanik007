@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [subho.dev](https://subhodev-subhajit-pramaniks-projects.vercel.app/)
 
-- 📫 How to reach me **subho.p.1011@gmail.com**
+- 📫 How to reach me **subhop.me@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
