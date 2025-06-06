@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhajit Pramanik</h1>
 <h3 align="center">I’m interested in Web development</h3>
 
-- 🌱 I’m currently learning **React JS, Express JS, Database managements**
-
-- 👨‍💻 All of my projects are available at [subho.dev](https://subhodev-subhajit-pramaniks-projects.vercel.app/)
+- 👨‍💻 My portfolio are available at [subho.dev](https://subhajitx.vercel.app/)
 
 - 📫 How to reach me **subhop.me@gmail.com**
 
