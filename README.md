@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Subhajit Pramanik</h1>
-<h3 align="center">I’m interested in Web development</h3>
 
 - 👨‍💻 My portfolio are available at [subho.dev](https://subhajitx.vercel.app/)
 
